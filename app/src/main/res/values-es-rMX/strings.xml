@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ANDROID_LABS_CLONNED</string>
+    <string name="hello_message">Hola Amigos</string>
+    <string name="ButtonText">Soy un boton sin acento!</string>
+
+    <string name="login">Acceso</string>
+    <string name="login_name">Clave de Acceso</string>
+    <string name="password">Contraseña</string>
+    <string name="password_name">Teclear Contraseña</string>
+    <string name="que">Que transa</string>
+
+
+
+</resources>
